@@ -1,0 +1,23 @@
+{
+  "name": "githubactions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikhily342/GithubActions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikhily342/GithubActions/issues"
+  },
+  "homepage": "https://github.com/Nikhily342/GithubActions#readme",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
