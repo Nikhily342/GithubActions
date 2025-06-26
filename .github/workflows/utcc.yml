@@ -1,11 +1,18 @@
 name: unit testing and code coverage
 
 on : 
+<<<<<<< add-function
+      pull_request  
+
+jobs: 
+    build:
+=======
       pull request  
 
 jobs: 
     build: 
     coverage:
+>>>>>>> main
         permissions:
             checks: write
             pull-requests: write
